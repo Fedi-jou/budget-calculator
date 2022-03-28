@@ -1,6 +1,6 @@
 # Budget Calculator 
 
-### main goal of this project is to use more "props" , "Hooks" , "Css variables" and build reuseful components " get your hands dirty then .
+### main goal of this project is to use more "props" , "Hooks" , "Css variables" and build reuseful components " get started then .
 
 
 # Getting Started with Create React App
