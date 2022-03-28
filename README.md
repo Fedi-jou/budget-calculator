@@ -1,3 +1,8 @@
+# Budget Calculator 
+
+### main goal of this project is to use more "props" , "Hooks" , "Css variables" and build reuseful components " get your hands dirty then .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
